@@ -21,5 +21,9 @@ Firewalls work by filtering incoming/outgoing traffic using rules. In this task,
 
 ## Screenshots
 1. While setting up the firewall rule blocking port 23:
+![Screenshot 2025-05-30 103635](https://github.com/user-attachments/assets/3eed6b93-483e-4e64-b2f9-6b456ba6fef0)
 
-![Port 23 Rule](C:\Users\LENOVO\Pictures\Screenshots\Screenshot 2025-05-30 103635.png)
+2. Testing the Rule
+![Screenshot 2025-05-30 104303](https://github.com/user-attachments/assets/7acf997e-f486-4017-b279-9ee71f31da95)
+
+
