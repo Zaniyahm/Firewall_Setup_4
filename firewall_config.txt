@@ -1,0 +1,14 @@
+# Firewall Configuration Documentation
+
+System: Windows 11
+
+1. Opened Windows Defender Firewall.
+2. Went to Advanced Settings > Inbound Rules.
+3. Created a new rule:
+   - Type: Port
+   - Protocol: TCP
+   - Port: 23 (Telnet)
+   - Action: Block the connection
+4. Tested using: nmap -p 23 127.0.0.1 in cmd prompt
+   - Result: Port 23 shown as filtered/closed
+5. Deleted the rule after test.
